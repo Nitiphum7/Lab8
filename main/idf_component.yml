@@ -1,0 +1,7 @@
+dependencies:
+LED: 
+git: https://github.com/Nitiphum7/Lab4_LED.gitt
+path: component/LED
+sevensegment:
+git: https://github.com/Nitiphum7/Lab7-SevenSegment.git
+path: components/SevenSegment
